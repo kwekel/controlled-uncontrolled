@@ -5,11 +5,7 @@ This is a React project
 
 `npm i`
 
-## To run the server:
-
-`node server.js`
-
-## To run the frontend
+## To run:
 
 `npm start`
 
